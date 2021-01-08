@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there! 👋
+
+My name is Magnus Myklegard! I am a student of ICT and Engineering at NTNU (Norwegian Univeristy of Science and Technology).
+
+## Contact
+You can reach me on:
+ - 📫 Magnusmykle@gmail.com
+ - 
+ 
 
 <!--
 **Mykle96/Mykle96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
