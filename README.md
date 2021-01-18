@@ -10,12 +10,12 @@ You can reach me on:
  
 ## Projects
 
-# In porgress
+### In porgress
 - As of now I am working on a financial analysis program, to try to help me make more smart investments!
 - A Social application for nights with friends!
 
 
-# Completed
+### Completed
 - A Machine learning program which trys to determine if a diagnosis og heart disease is false postive or fale negative.
   - Complementary website to the project.
 
