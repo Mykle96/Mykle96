@@ -12,6 +12,7 @@ You can reach me on:
 
 ### In porgress
 - As of now I am working on a financial analysis program, to try to help me make more smart investments!
+- In the process of making a unity mobile game!
 - A Social application for nights with friends!
   - The application is built using React Native, expo and firebase.
 
