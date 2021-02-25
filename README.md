@@ -6,7 +6,7 @@ I do most of my projects on my free time, which is limited now as I also work as
 ## Contact
 You can reach me on:
  - 📫 Magnusmykle@gmail.com
- - Instagram --> magnusmykle
+ - 📱 99424930
  
 ## Projects
 
