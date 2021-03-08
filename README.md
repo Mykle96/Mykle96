@@ -1,12 +1,12 @@
 # Hi there! 👋
 
 My name is Magnus Myklegard! I am a student of ICT and Engineering at NTNU (Norwegian Univeristy of Science and Technology).
-I do most of my projects on my free time, which is limited now as I also work as a Senior Key Account Manager for one of Norway's largest festivals, completely run by nearly 2000 volunteer students. 
+I do most of my projects on my free time, which is limited now as I also work as a Senior Key Account Manager for one of Norway's largest festivals, completely ran by nearly 2000 volunteer students. 
 
 ## Contact
 You can reach me on:
  - 📫 Magnusmykle@gmail.com
- - 📱 99424930
+ - 📱 +47 99424930
  
 ## Projects
 
